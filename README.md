@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VictorKovarik
 - 👀 I’m interested in  Hacking cursos.
- 🌱 I’m currently learning Computação.
+- 🌱 I’m currently learning Computação.
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
